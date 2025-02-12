@@ -1,8 +1,24 @@
-# React + Vite
+# ⏰ Digital Clock
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Este é um projeto de **Relógio Digital** desenvolvido em **React**, que exibe a hora atual atualizando a cada segundo. A interface apresenta um fundo estilizado e um efeito de desfoque para destacar o relógio.
 
-Currently, two official plugins are available:
+## 🛠 Tecnologias Utilizadas
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+- React.js  
+- JavaScript (ES6+)  
+- CSS Puro  
+
+## 🎨 Funcionalidades
+
+- Exibição da hora no formato **12 horas (AM/PM)**.  
+- Atualização dinâmica do horário a cada segundo.  
+- Estilização com **efeito de desfoque no fundo**.  
+- **Wallpaper clássico do Windows XP** como fundo.  
+
+## 📷 Prévia do Projeto
+
+![Prévia do Digital Clock](src/assets/digital-clock-preview.png)
+
+## 📜 Licença
+
+Este projeto está sob a licença **MIT**. Veja o arquivo [LICENSE](./LICENSE) para mais detalhes.
