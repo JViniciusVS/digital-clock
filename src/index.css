@@ -1,0 +1,30 @@
+body {
+  margin: 0;
+  padding: 0;
+  outline: none;
+  box-sizing: border-box;
+  background-image: url(./assets/windows_xp_original-wallpaper-1920x1080.jpg);
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-attachment: fixed;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+}
+
+.container {
+  backdrop-filter: blur(5px);
+  width: 100vw;
+  padding: 10px 0;
+}
+
+.clock {
+  color: #FFF;
+  font-size: 64px;
+  font-weight: bold;
+  font-family: monospace;
+  text-align: center;
+  text-shadow: 3px 3px 5px #000000bf;
+}
